@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
     signC.addEventListener('click', function() {
-        numOne = '';     
+        lastClick.value = "0";     
     })
 
 
