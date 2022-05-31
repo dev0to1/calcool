@@ -26,3 +26,11 @@ input[type=text]{
 input[type=button]:hover{
     background-color: #4f8dbd;
 }
+
+.redAlert{
+    color: red;
+}
+
+.normalMessage{
+    color: black;
+}
